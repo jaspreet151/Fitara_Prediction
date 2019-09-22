@@ -15,3 +15,4 @@ This project has four major parts:
 2.	app.py - This contains Flask APIs that receives text through GUI or API calls, computes the precited value based on our model and returns it.
 3.	templates - This folder contains the HTML template to allow user to enter the text and displays the predicted value i.e. True or False.
 4.	Model – This folder contains the vectorizer, model pickles for ML model and tokenizer pickle, DL model h5 file.
+
