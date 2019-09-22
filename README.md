@@ -1,2 +1,2 @@
-# Fitara_Prediction
-FITARA Document classifier
+# FITARA Document Classifier
+
