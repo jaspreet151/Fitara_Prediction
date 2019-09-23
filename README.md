@@ -23,7 +23,7 @@ This project has four major parts:
 2.	By default, flask will run on port 5000.
  	  Navigate to URL http://localhost:5000
     You should be able to view the homepage as below :
-<img width="742" alt="p2" src="https://user-images.githubusercontent.com/41380402/65391449-f6f33180-dd86-11e9-9081-2344d6aa5b0a.PNG">
+<img width="960" alt="p1" src="https://user-images.githubusercontent.com/41380402/65409145-90145d80-de04-11e9-8bf2-7568c1d0a097.PNG">
 
 3.	Select one of the three options i.e. ML Model, DL Model and Prediction Table.
 <img width="742" alt="p2" src="https://user-images.githubusercontent.com/41380402/65391482-4a657f80-dd87-11e9-9fb2-8b42bcd7de89.PNG">
